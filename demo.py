@@ -92,13 +92,7 @@ while True:
                     break
         elif choose1.lower()== "q":
             view_products(detail)
-            print()
-
-        
-        
-        
-
-        
+            print()       
     elif choice == "3":
             break
     
